@@ -4,7 +4,7 @@
     "paragraph": "PlanetPulse An Application For Community Collaboration In Climate Resilience And Disaster Preparedness"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "In an ever-changing world, where the impacts of climate change and natural disasters are becoming increasingly prevalent, it's crucial that communities come together to build resilience and preparedness. That's where PlanetPulse comes in.PlanetPulse is not just another app; it's a powerful tool designed to foster collaboration, share vital information, and empower communities to face the challenges of our time head-on. With the collective strength of individuals, local organizations, and governments, we can take a proactive approach towards building a more resilient future.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -67,88 +67,139 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bell-o" ,
+      "name": "Disaster Warning Alert System",
+      "text": " Disaster Warning Alert System that will provide timely and formal SMS alerts and notifications for a range of natural disasters, including floods, landslides, thunderstorms, and strong winds"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-phone",
+      "name": "Emergency Authority Contact Tool",
+      "text": "Its primary functions is to send SMS notifications to these authorities to request assistance and updates, particularly in the context of launching an evacuation project."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tasks",
+      "name": "Disaster Preparedness Guide",
+      "text": "Offers vital information encompassing evacuation routes, shelter sites, and invaluable pre, post, and during disaster guidance tailored to the specific type of disaster that is imminent"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-street-view",
+      "name": "Air Quality Index Map",
+      "text": " A tool for users to monitor and assess the air quality in their surroundings, providing tailored guidance for different age ranges based on the current air quality level. Also,  delivers insights into pollutant concentrations in the air."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-camera",
+      "name": "The Greenery Showcase Social Platform",
+      "text": "Motivates users to actively engage in tree planting and contribute to a greener planet. It rewards them with points that can be donated to worthy causes. "
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-comment",
+      "name": "Issues Publication Platform for Climate Change Concerns",
+      "text": "Serves as a dedicated Issues Publication Platform where users can share and publish their firsthand experiences, concerns, and challenges arising from the effects of climate change. "
+    },
+    
+    
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Free Food Resources Map for Disaster Survivors",
+      "text": "Helps individuals locate available food resources crucial for their survival in the aftermath of a disaster."
+    },
+    {
+      "icon": "fa fa-medkit",
+      "name": "Customizable Survival Emergency Kit Checklist",
+      "text": "Tailoring emergency kits according to the type of disaster and user's unique background information"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": " Simplified Carbon Footprint Calculator",
+      "text": "This user-friendly tool is designed to empower individuals to easily calculate their carbon emissions in three key areas: food, transportation, and electricity usage with practical tips on reducing one's carbon footprint."
+    },
+  
+    {
+      "icon": "fa fa-newspaper-o",
+      "name": "Climate News Platform",
+      "text": "Serves as a comprehensive and reliable source for individuals to access the latest climate news and updates from around the world."
+    },
+   
+    {
+      "icon": "fa fa-quote-right",
+      "name": "Blog Publishing Platform",
+      "text": "Facilitates bloggers and writers who are passionate about sharing insightful information and analysis about climate change, its far-reaching impacts, and disaster preparedness and mitigation"
+    },
+    {
+      "icon": "fa fa-gift",
+      "name": " Disaster and Climate Change Relief Project Management Tool",
+      "text": "Facilitates the initiation, coordination, and management of humanitarian projects initiated by volunteer organizations to address the needs of communities impacted by natural disasters and climate-related challenges."
     }
+    
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/python.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "PYTHON",
+      "link":"https://www.simplilearn.com/top-python-libraries-for-data-science-article"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/testimonials/django.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "DJANGO",
+      "link":"https://www.djangoproject.com/"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/testimonials/react-logo.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "REACT",
+      "link":"https://react.dev/"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/testimonials/mongodb.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "MONGO DB",
+      "link":"https://www.mongodb.com/docs/"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "img/testimonials/i18.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "I18NEXT",
+      "link":"https://www.i18next.com/"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "img/testimonials/i18.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "JUPYTER",
+      "link":"https://jupyter.org/"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/samantha_sir.jpg",
+      "name": "Dr. Samantha Rajapaksha",
+      "job": "Supervisor"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/jenny_madam.jpeg",
+      "name": "Ms. Jenny Krishara",
+      "job": "Co-supervisor"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/oshidie.jpg",
+      "name": "Oshidhie Peiris",
+      "job": "Leader"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/dinith.jpg",
+      "name": "Tharusha Ranasinghe",
+      "job": "Team member"
+    },
+    {
+      "img": "img/team/Yash.jpg",
+      "name": "Yashodhara Pitawela",
+      "job": "Team member"
+    },
+    {
+      "img": "img/team/uvindu.jpg",
+      "name": "Uvindu Abeykoon",
+      "job": "Team member"
     }
   ],
   "Contact": {
@@ -160,25 +211,17 @@
     "youtube": "youtube.com"
   },
   "Features": [
+   
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-question",
+      "title": "Research Question",
+      "text": "Climate-related issues have worsened in the past decade. Current technology solutions are limited and mostly tailored for African countries, with distinct climate challenges compared to Asian nations like Sri Lanka and India. In Sri Lanka, volunteer organizations strive to raise climate awareness and find solutions, but identifying victims and promoting their issues is a challenge. Physical awareness sessions are often ineffective, leading victims to rely on TV channels and social media to seek assistance, though these platforms don't consistently deliver the desired results. summarize"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-search",
+      "title": "Research Objective",
+      "text": "To build an online platform to address the issues people face due to climate change. Alert users of possible natural disasters and guide them to minimize the damage. Encourage people to minimize their carbon footprint and minimize their contribution to climate change"
     }
+   
   ]
 }
