@@ -5,6 +5,12 @@ import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
+import { Gallery2 } from "./components/gallery2";
+import { PPOne } from "./components/ppone";
+import { Research } from "./components/research";
+import { PPtwo } from "./components/pptwo";
+import { StatusDocTwo } from "./components/statusdoctwo";
+import { FinalReports } from "./components/finalreports";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -31,6 +37,12 @@ const App = () => {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
+      <Gallery2 data={landingPageData.Gallery2} />
+      <PPOne data={landingPageData.ProgressPresOne} />
+      <Research data={landingPageData.ResearchPaper} />
+      <PPtwo data={landingPageData.ProgressPresTwo} />
+      <StatusDocTwo data={landingPageData.StatusDocTwo} />
+      <FinalReports data={landingPageData.FinalReps} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />

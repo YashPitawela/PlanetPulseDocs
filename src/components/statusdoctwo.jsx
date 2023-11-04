@@ -35,7 +35,7 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Gallery = (props) => {
+export const StatusDocTwo = (props) => {
   const downloadPDF = (url, fileName) => {
     const link = document.createElement("a");
     link.href = url;
@@ -47,10 +47,7 @@ export const Gallery = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
-        <div className="section-title">
-          <h2>Documents</h2>
-        </div>
-        <button className="horizontal-line">Project Proposal Documents</button>
+        <button className="horizontal-line">Status Document 2</button>
         <div className="row">
           <div className="portfolio-items">
             {props.data

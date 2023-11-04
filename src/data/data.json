@@ -20,50 +20,156 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Final Report - Team",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
     }
+   
+  ],
+  "Gallery2": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
+  ],
+  "ProgressPresOne": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/teamss.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
+  ],
+  "ResearchPaper": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/teamss.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
+  ],
+  "ProgressPresTwo": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
+  ],
+  "StatusDocTwo": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
+  ],
+  "FinalReps": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1xcpYpFnrgod4mJ2yy9SSfbryPTyAhT58/view?usp=sharing"
+    }
+   
   ],
   "Services": [
     {
@@ -222,6 +328,5 @@
       "title": "Research Objective",
       "text": "To build an online platform to address the issues people face due to climate change. Alert users of possible natural disasters and guide them to minimize the damage. Encourage people to minimize their carbon footprint and minimize their contribution to climate change"
     }
-   
   ]
 }
