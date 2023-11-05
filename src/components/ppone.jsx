@@ -7,7 +7,7 @@
 //       <div className="container">
 //         <div className="section-title">
 //           <h2>Documents</h2>
-         
+
 //         </div>
 //         <div className="row">
 //           <div className="portfolio-items">
@@ -49,15 +49,37 @@ export const PPOne = (props) => {
       <div className="container">
         <button className="horizontal-line">Progress Presentation 1</button>
         <div className="row">
-          <div className="portfolio-items">
+          <div
+            style={{
+              marginTop: "10px",
+            }}
+            className="portfolio-items"
+          >
             {props.data
               ? props.data.map((d, i) => (
-                  <div key={`${d.title}-${i}`} className="col-sm-3">
-                    <Image
-                      
-                      smallImage={d.smallImage}
+                  <div
+                    key={`${d.title}-${i}`}
+                    className="col-sm-3"
+                    style={{
+                      marginTop: "10px",
+                      marginBottom: "20px",
+                    }}
+                  >
+                    <img
+                      src={d.smallImage}
+                      alt="..."
+                      className=""
+                      style={{
+                        marginBottom: "10px",
+                        width: "120px",
+                        height: "120px",
+                      }}
                     />
-                    <button className="btn btn-custom-c"
+                    <div className="caption">
+                      <h4>{d.title}</h4>
+                    </div>
+                    <button
+                      className="btn btn-custom-c"
                       onClick={() => downloadPDF(d.url, d.title + ".pdf")}
                     >
                       Download PDF

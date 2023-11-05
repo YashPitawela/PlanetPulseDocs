@@ -49,14 +49,32 @@ export const Research = (props) => {
       <div className="container">
         <button className="horizontal-line">Research Paper</button>
         <div className="row">
-          <div className="portfolio-items">
+        <div
+            style={{
+              marginTop: "10px",
+            }}
+            className="portfolio-items"
+          >
             {props.data
               ? props.data.map((d, i) => (
-                  <div key={`${d.title}-${i}`} className="col-sm-3">
-                    <Image
-                      
-                      smallImage={d.smallImage}
+                  <div key={`${d.title}-${i}`} className="col-sm-3"
+                  style={{
+                    marginTop: "10px",
+                    marginBottom: "20px",
+                  }}>
+                    <img
+                      src={d.smallImage}
+                      alt="..."
+                      className=""
+                      style={{
+                        marginBottom: "10px",
+                        width: "120px",
+                        height: "120px",
+                      }}
                     />
+                    <div className="caption">
+                      <h4>{d.title}</h4>
+                    </div>
                     <button className="btn btn-custom-c"
                       onClick={() => downloadPDF(d.url, d.title + ".pdf")}
                     >
