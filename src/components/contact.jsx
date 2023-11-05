@@ -33,7 +33,7 @@ export const Contact = (props) => {
   };
   return (
     <div>
-      <div id="contact">
+      {/* <div id="contact">
         <div className="container">
           <div className="col-md-8">
             <div className="row">
@@ -145,14 +145,24 @@ export const Contact = (props) => {
             </div>
           </div>
         </div>
-      </div>
-      <div id="footer">
+      </div> */}
+      {/* <div id="footer">
         <div className="container text-center">
           <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>
+          </p>
+        </div>
+      </div> */}
+      <div id="footer">
+        <div className="container text-center">
+          <p>
+            &copy; 2023 PlanetPulse{" "}
+            {/* <a href="http://www.templatewire.com" rel="nofollow">
+              TemplateWire
+            </a> */}
           </p>
         </div>
       </div>
