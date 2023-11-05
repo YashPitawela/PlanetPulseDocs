@@ -17,12 +17,17 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-           PLANETPULSE
+          {/* <img src={require("../assets/images/logo.png")} height={100} />{" "} */}
+          {/* <a className="navbar-brand page-scroll" href="#page-top">
+            PLANETPULSE
+          </a>{" "} */}
+          <a className="page-scroll" href="#page-top">
+          <img src={require("../assets/images/logo.png")} height={100} />{" "}
           </a>{" "}
         </div>
 
         <div
+        style={{ marginTop: '20px' }}
           className="collapse navbar-collapse"
           id="bs-example-navbar-collapse-1"
         >
