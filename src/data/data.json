@@ -240,40 +240,40 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/python.jpg",
+      "img": "img/testimonials/python01.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "PYTHON",
-      "link":"https://www.simplilearn.com/top-python-libraries-for-data-science-article"
+      "link":"https://www.python.org/"
     },
     {
-      "img": "img/testimonials/django.jpg",
+      "img": "img/testimonials/django1.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "DJANGO",
       "link":"https://www.djangoproject.com/"
     },
     {
-      "img": "img/testimonials/react-logo.jpg",
+      "img": "img/testimonials/react.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "REACT",
       "link":"https://react.dev/"
     },
     {
-      "img": "img/testimonials/mongodb.jpg",
+      "img": "img/testimonials/mongo01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "MONGO DB",
       "link":"https://www.mongodb.com/docs/"
     },
     {
-      "img": "img/testimonials/i18.jpg",
+      "img": "img/testimonials/i18n.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "I18NEXT",
       "link":"https://www.i18next.com/"
     },
     {
-      "img": "img/testimonials/i18.jpg",
+      "img": "img/testimonials/colab.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "JUPYTER",
-      "link":"https://jupyter.org/"
+      "name": "Google Colaboratory",
+      "link":"https://colab.research.google.com/"
     }
   ],
   "Team": [
